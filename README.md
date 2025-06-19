@@ -29,6 +29,8 @@ SudokuCracker is a web-based Sudoku solver that allows users to input their own 
 
 ## Demo
 
+https://gheorghiciucgeorgia.github.io/SudokuCracker/
+
 ![Preview of SudokuCracker](preview.png)
 
 ---
